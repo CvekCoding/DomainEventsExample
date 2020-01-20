@@ -1,4 +1,4 @@
-#Domain Events
+# Domain Events
 This repo is created to demonstrate the work with `domain events` in Doctrine environment.
 
 It's just a generic code to demonstrate the idea, but not a working project.
